@@ -5,4 +5,3 @@
 <h3> For install PyQt5 on:</h3>
 <h4> Linux: sudo apt-get install python3-pyqt5  OR pip3 install PyQt5 </h4>
 <h4> Windows: pip3 install pyqt5 <h4>
-  <script>alert(":D")</script>
